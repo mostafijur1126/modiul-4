@@ -1,0 +1,14 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 15px;
+}
+nav li:hover{
+    color: aqua;
+}
+nav li a{
+    text-decoration: none;
+}
+footer p{
+    text-align: center;
+}
